@@ -50,8 +50,8 @@ The **Get Next Line** project involves creating a function that reads a line fro
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/get_next_line.git
-   cd get_next_line
+   git clone https://github.com/pleiadeslol/42_get_next_line.git
+   cd 42_get_next_line
    ```
 2. Compile the project with a buffer size:
    ```bash
